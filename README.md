@@ -13,7 +13,7 @@
 &nbsp;
 ---
 
-## 💻 Aspiring Technologist
+## 💻 Ardent Technologist
 
 I'm a hobbyist developer and (to-be) graduate student of Computer Science from the University of Calgary. My projects vary from online course-work, projects that I've done during my period of study, or simply projects that I've built for the purpose of refining my knowledge and diversifying the set of tools at my disposal for future problem solving. The goal that I've set out to achieve is to continue building a solid and adaptable foundation such that my first steps into the professional industry are concise and swift!
 
@@ -29,8 +29,6 @@ I'm a hobbyist developer and (to-be) graduate student of Computer Science from t
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg"/>
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png"/>
 <br />
 
 #
