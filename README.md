@@ -15,7 +15,7 @@
 
 ## 💻 Ardent Technologist
 
-I'm a hobbyist developer and (to-be) graduate student of Computer Science from the University of Calgary. My projects vary from online course-work, projects that I've done during my period of study, or simply projects that I've built for the purpose of refining my knowledge and diversifying the set of tools at my disposal for future problem solving. The goal that I've set out to achieve is to continue building a solid and adaptable foundation such that my first steps into the professional industry are concise and swift!
+I'm a hobbyist developer and a graduate from the University of Calgary with a Bachelors in Computer Science. My projects vary from online course-work, projects that I've done during my period of study, or simply projects that I've built for the purpose of refining my knowledge and diversifying the set of tools at my disposal for future problem solving. The goal that I've set out to achieve is to continue building a solid and adaptable foundation such that my first steps into the professional industry are concise and swift!
 
 #
 
